@@ -53,10 +53,10 @@ img {
     text-align: center;
 }
 
-.sarcophagus {
+#sarcophagus {
     height: 20vw;
 }
 
-.horus {
+#horus {
     height: 20vw;
 }
